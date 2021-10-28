@@ -3,7 +3,7 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.14
+      - uses: lowlighter/metrics@v3.15
         with:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Warsaw
