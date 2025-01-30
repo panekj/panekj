@@ -1,2 +1,1 @@
-Hi, if you are looking for my code, it's not here. I'm here mostly just to contribute to other projects.
-![image](https://user-images.githubusercontent.com/50457605/205963689-903af51c-50f9-4a8f-981e-cbdab02d5c50.png)
+![photo_2024-12-06_03-05-31](https://github.com/user-attachments/assets/7bec3777-b33a-403e-810d-a622dbdccd50)
